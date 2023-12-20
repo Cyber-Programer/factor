@@ -1,3 +1,3 @@
 # factor indentifier
 
-link: https://www.cyber-programer.github.io/factor
+link: https://cyber-programer.github.io/factor
